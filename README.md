@@ -7,4 +7,5 @@ Today I learned.
 
 ### Cybozuエンジニア新人研修
 
+- HTTPとDNS
 - Webアプリケーション基礎
