@@ -9,3 +9,4 @@ Today I learned.
 
 - HTTPとDNS
 - Webアプリケーション基礎
+- ソフトウェアライセンス
