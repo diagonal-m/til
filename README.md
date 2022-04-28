@@ -7,6 +7,7 @@ Today I learned.
 
 ### Cybozuエンジニア新人研修
 
+- ソフトウェアテスト
 - HTTPとDNS
 - Webアプリケーション基礎
 - ソフトウェアライセンス
