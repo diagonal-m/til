@@ -3,6 +3,10 @@
 Today I learned.
 
 ## TOC
+## web
+
+### Webを支える技術
+
 ## Engineering
 
 ### Cybozuエンジニア新人研修
@@ -10,4 +14,5 @@ Today I learned.
 - ソフトウェアテスト
 - HTTPとDNS
 - Webアプリケーション基礎
+- テスト自動化
 - ソフトウェアライセンス
