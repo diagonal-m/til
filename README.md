@@ -7,6 +7,8 @@ Today I learned.
 
 ### Webを支える技術
 
+- 01Webとは何か
+- 02REST
 ## Engineering
 
 ### Cybozuエンジニア新人研修
