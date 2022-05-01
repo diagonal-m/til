@@ -3,6 +3,11 @@
 Today I learned.
 
 ## TOC
+## SystemsArchitecture
+
+### 良いコード悪いコードで学ぶ設計入門
+
+- 01悪しき構造の弊害を知覚する
 ## web
 
 ### Webを支える技術
