@@ -12,6 +12,8 @@ Today I learned.
 
 ### Webを支える技術
 
+- 03URIの仕様
+- 04URIの設計
 - 01Webとは何か
 - 02REST
 ## DB
