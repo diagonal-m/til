@@ -16,6 +16,7 @@ Today I learned.
 - 03URIの仕様
 - 05HTTPの基本
 - 04URIの設計
+- 06HTTPメソッド
 - 01Webとは何か
 - 02REST
 ## DB
@@ -23,6 +24,7 @@ Today I learned.
 ### 達人に学ぶDB設計徹底指南書
 
 - 01データベースを制する者はシステムを制す
+- 02論理設計と物理設計
 ## Engineering
 
 ### Cybozuエンジニア新人研修
