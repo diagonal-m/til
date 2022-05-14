@@ -18,6 +18,7 @@ Today I learned.
 - 05HTTPの基本
 - 04URIの設計
 - 06HTTPメソッド
+- 07ステータスコード
 - 01Webとは何か
 - 02REST
 ## DB
